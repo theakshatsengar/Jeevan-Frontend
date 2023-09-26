@@ -45,7 +45,6 @@ const Index = () => {
             <div className="row">
               <div className="col-12 col-lg-6 text-center text-lg-left content">
                 <h1>We Provide</h1>
-                <h3>24/7 hour Service</h3>
                 <p>Lorem ipsum</p>
                 <Link
                   to="/contact-us"
