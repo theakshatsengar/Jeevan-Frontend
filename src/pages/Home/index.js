@@ -17,7 +17,7 @@ const Index = () => {
           <div className="container">
             <div className="row">
               <div className="col-12 col-lg-6 content d-none d-lg-block">
-                <h1>Search Doctors</h1>
+                <h1>Search Nearby Doctors</h1>
                 <h5>Choose your nearest specialist</h5>
               </div>
               <div className="col-12 col-lg-6 image-column text-center">
